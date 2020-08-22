@@ -1,0 +1,3 @@
+Como estoy decidiendo usar la data compartida en el curso, 
+entonces el problema trata de medir la gravedad de un accidente debido a las condiciones climaticas 
+y de la carretera donde se hará cierto viaje.

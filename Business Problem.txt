@@ -1,0 +1,3 @@
+Since I am deciding to use the shared data in the course,
+then the problem tries to measure the severity of an accident due to weather conditions
+and the road where a certain journey will be made.

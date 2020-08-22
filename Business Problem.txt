@@ -1,0 +1,8 @@
+Since I am deciding to use the shared data in the course,
+then the problem tries to measure the severity of an accident due to weather conditions
+and the road where a certain journey will be made.
+
+All collisions provided by SPD and recorded by Traffic Records. 
+This includes all types of collisions. 
+Collisions will display at the intersection or mid-block of a segment. 
+Timeframe: 2004 to Present.
